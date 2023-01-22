@@ -9,7 +9,7 @@ console.log(process.env.OPENAI_API_KEY)
 
 
 const configuration = new Configuration({
-  apiKey: "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",
+  apiKey: "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",
 });
 
 const openai = new OpenAIApi(configuration);
